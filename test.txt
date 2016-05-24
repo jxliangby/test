@@ -19,3 +19,6 @@ my stupid caige still is a doubi
 
 
 push xxx to repository again
+
+
+add git 1.....
