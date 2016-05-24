@@ -1,9 +1,0 @@
-this is a rm file to test
-
-aa
-
-git diff HEAD -- readme.txt 
-
-git log --pretty=oneline
-
- git reset --hard HEAD^
