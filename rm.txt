@@ -1,3 +1,0 @@
-this is a rm file to test
-
-aa
